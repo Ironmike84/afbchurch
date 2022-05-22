@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Ironmike84.github.io/afbchurch/static/css/main.fd60519e.css",
-    "main.js": "/Ironmike84.github.io/afbchurch/static/js/main.4a77ed2a.js",
-    "index.html": "/Ironmike84.github.io/afbchurch/index.html",
-    "main.fd60519e.css.map": "/Ironmike84.github.io/afbchurch/static/css/main.fd60519e.css.map",
-    "main.4a77ed2a.js.map": "/Ironmike84.github.io/afbchurch/static/js/main.4a77ed2a.js.map"
+    "main.css": "/afbchurch/static/css/main.fd60519e.css",
+    "main.js": "/afbchurch/static/js/main.4a77ed2a.js",
+    "index.html": "/afbchurch/index.html",
+    "main.fd60519e.css.map": "/afbchurch/static/css/main.fd60519e.css.map",
+    "main.4a77ed2a.js.map": "/afbchurch/static/js/main.4a77ed2a.js.map"
   },
   "entrypoints": [
     "static/css/main.fd60519e.css",
