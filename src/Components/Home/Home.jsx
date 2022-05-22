@@ -46,7 +46,7 @@ function Home() {
           <div className='TextContainer'>We are a diverse group of friendly, caring people united in our faith in Jesus Christ, Son of God, as our Savior. We credit God for our many blessings and we place our trust in His strength and power as we face life's trials and temptations. We believe the Bible is God's written word, and with the help of God's Holy Spirit, strive to grow in our knowledge and understanding of God's will for our lives, our willingness to trust Him, and our loving relationship with Him. We welcome everyone to our church, from those of you who are just beginning to seek, to those of you who seek to learn more, to those of you who have already made the decision to become a Christian and wish to continue in your spiritual growth and service. We thank you for visiting our website. May God bless you..
           </div>
           </div>
-          <img className='KingsCrown' src={KingsCrown} alt="Christ Carrying the Cross"></img>
+        
         </div>
       <hr></hr>
       <div><h6>MJG Web Design Services 2020</h6></div>

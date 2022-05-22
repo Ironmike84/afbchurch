@@ -2,9 +2,9 @@ body{
   font-family: 'Raleway', sans-serif;
   margin: 14px;
   color: black;
-  background-image: url('./Components/Images/Clouds.jpeg' );
+
   background-size: contain;
-  background-color: #282c34;
+  background-color: #dbdde2;
 }
 
 .Title{
