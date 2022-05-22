@@ -2,7 +2,7 @@
   "name": "afbchurch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "Ironmike84.github.io/afbchurch",
+  "homepage": "https://ironmike84.github.io/afbchurch/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
