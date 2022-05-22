@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/afbchurch/static/css/main.fd60519e.css",
-    "main.js": "/afbchurch/static/js/main.4a77ed2a.js",
+    "main.css": "/afbchurch/static/css/main.ae4cefaa.css",
+    "main.js": "/afbchurch/static/js/main.77f9cb9e.js",
+    "static/media/KingsCrown.jpg": "/afbchurch/static/media/KingsCrown.6ede19f696ee7f844d02.jpg",
+    "static/media/Clouds.jpeg": "/afbchurch/static/media/Clouds.555822c7dde1e6631d1f.jpeg",
+    "static/media/AFB_Large.png": "/afbchurch/static/media/AFB_Large.b979117e19a1076ce0a5.png",
     "index.html": "/afbchurch/index.html",
-    "main.fd60519e.css.map": "/afbchurch/static/css/main.fd60519e.css.map",
-    "main.4a77ed2a.js.map": "/afbchurch/static/js/main.4a77ed2a.js.map"
+    "main.ae4cefaa.css.map": "/afbchurch/static/css/main.ae4cefaa.css.map",
+    "main.77f9cb9e.js.map": "/afbchurch/static/js/main.77f9cb9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd60519e.css",
-    "static/js/main.4a77ed2a.js"
+    "static/css/main.ae4cefaa.css",
+    "static/js/main.77f9cb9e.js"
   ]
 }
