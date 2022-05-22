@@ -1,4 +1,107 @@
 body{
-  color: white;
+  font-family: 'Raleway', sans-serif;
+  margin: 14px;
+  color: black;
+  background-image: url('./Components/Images/Clouds.jpeg' );
+  background-size: contain;
   background-color: #282c34;
+}
+
+.Title{
+  font-size: 18pt;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+
+.AFB{
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+hr{
+  border: 1px inset rgb(95, 95, 95);
+}
+h3{
+  color: rgb(0, 0, 0);;
+}
+li{
+  list-style:square;
+ 
+}
+.Container{
+  padding: 14px;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0.322);
+  box-shadow: rgba(0, 0, 0, 0.205) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.TextContainer{
+  padding: 7px;
+  line-height: 22pt;
+  color: whitesmoke;
+  border-radius: 7px;
+  border: 1px outset grey;
+  padding: 7px;
+  background-color: rgba(0, 0, 0, 0.466);
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.Alert{
+  text-align: center;
+  color: white;
+}
+
+.FBIcon{
+  cursor: pointer;
+  position: absolute;
+  top: 100px;
+  right: 70px;
+height: 50px;
+width: 50px;
+}
+
+.MissionTitle{
+  padding: 7px;
+  font-weight: bold;
+  font-size: 18pt;
+  Color: bisque;
+}
+
+.AddressContainer{
+  text-align: center;
+  color: white;
+  width:fit-content;
+  height: 35px;
+  padding: 7px;
+  border-radius: 5px;
+  border: 1px outset rgba(0, 0, 0, 0.452);
+  background-color: rgba(0, 0, 0, 0.363);
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  overflow:hidden;
+  transition: .5s ease-in-out;
+}
+
+.AddressContainer:hover{
+  cursor: pointer;
+  text-align: center;
+  color: white;
+  width:fit-content;
+  Height: 140px;
+  padding: 7px;
+  border-radius: 5px;
+  border: 1px outset rgba(0, 0, 0, 0.452);
+  background-color: rgba(0, 0, 0, 0.363);
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 1s ease-in-out;
+}
+
+
+
+.Address{
+  font-size: 14pt;
+}
+
+.MainTitle{
+  color: white;
+  font-size: 22pt;
+  font-weight: bolder;
+
 }

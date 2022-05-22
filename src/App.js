@@ -10,7 +10,7 @@ function App() {
     <>
     <div className="App">
       <NavBar/>
-      <h2>Archer First Baptist Church</h2>
+    
       <hr></hr>
     </div>
     <Routes>
